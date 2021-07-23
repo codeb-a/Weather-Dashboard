@@ -6,7 +6,7 @@
 
 This application is a weather dashboard that uses the "Open weather" API that lets the User see the current weather condtions of a city as well as a 5-day forecast.
 
-![](assets/images/Weatherdashboardpic.png)
+![](assets/image/Weatherdashboardpic.png)
 
 ## Table of Contents
 
